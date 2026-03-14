@@ -4,6 +4,8 @@ This project uses machine learning models to detect Parkinson’s disease from s
 
 ## Dataset
 Parkinson's Speech Dataset from the UCI Machine Learning Repository.
+Dataset link:
+https://archive.ics.uci.edu/dataset/301/parkinson+speech+dataset+with+multiple+types+of+Audio+recordings
 
 ## Tasks
 1. Binary Classification
